@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Radio {
+public interface Radio {
+
+    boolean startRadio();
+    boolean stopRadio();
 }
